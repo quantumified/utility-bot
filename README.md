@@ -4,4 +4,5 @@
 - Uses slash commands.
 - Automatically registers any new commands as when files are added to the commands folder to all servers.
 - Customisable.
-- 
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

@@ -3,3 +3,5 @@
 ## Features:
 - Uses slash commands.
 - Automatically registers any new commands as when files are added to the commands folder to all servers.
+- Customisable.
+- 
